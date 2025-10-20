@@ -16,6 +16,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff&style=flat)
 
+<!--
 ---
 
 ### 🔗 Featured Project
@@ -27,7 +28,7 @@ _A private, client-side face feature analysis app built with Next.js, React, Tai
 - Facial symmetry & proportions analysis  
 - Personalized lookmaxing tips  
 - Affiliate product integration (business logic + monetization)  
-
+-->
 ---
 
 💡 Always open to collaborations, freelance projects, or just geeking out about web dev!  
