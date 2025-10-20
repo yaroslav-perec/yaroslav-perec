@@ -32,4 +32,4 @@ _A private, client-side face feature analysis app built with Next.js, React, Tai
 ---
 
 💡 Always open to collaborations, freelance projects, or just geeking out about web dev!  
-📫 Reach me at **rick.perets.dev@gmail.com**
+📫 Reach me at **perets.yaroslav@gmail.com**
